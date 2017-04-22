@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VR World/Scenes/World.unity
+  isLoaded: 1
+  isActive: 1
